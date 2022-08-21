@@ -1,4 +1,4 @@
-<h2>Simple Node & Express API</h2>
+<h2>Simple Node & Express API - CRUD for user</h2>
 
 <ul>
 <li>CRUD</li>
